@@ -1,0 +1,36 @@
+.news-gallery {
+  padding: 4rem 0;
+  background-color: #f9f9f9;
+}
+
+.news-gallery h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.news-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.news-item {
+  width: 300px;
+  margin-bottom: 2rem;
+}
+
+.news-item img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+.news-item h3 {
+  margin-bottom: 0.5rem;
+}
+
+.news-item p {
+  color: #777;
+}
+
